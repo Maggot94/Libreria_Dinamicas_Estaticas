@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548132345 source:c:\users\andres castro puerta\desktop\librerias c++\agenda\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+	"dllheadder.h"
+
+1548130258 c:\users\andres castro puerta\desktop\librerias c++\agenda\dllheadder.h
+
